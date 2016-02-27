@@ -1,0 +1,25 @@
+{
+  "name": "trace-line",
+  "version": "0.0.1",
+  "description": "A function to aid debugging by logging the line number and filename when executed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iambrandonn/trace-line.git"
+  },
+  "keywords": [
+    "line",
+    "number",
+    "trace",
+    "debug"
+  ],
+  "author": "Brandon Nicholls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iambrandonn/trace-line/issues"
+  },
+  "homepage": "https://github.com/iambrandonn/trace-line#readme"
+}
