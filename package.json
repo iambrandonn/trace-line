@@ -1,6 +1,6 @@
 {
   "name": "trace-line",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A function to aid debugging by logging the line number and filename when executed",
   "main": "index.js",
   "scripts": {
